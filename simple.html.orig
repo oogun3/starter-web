@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<!-- copyright 2020 git.training
+adding changes before rebasing conflicts
+<head>
+	<title>A simple example</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			just some simple changes made to this file
+			on the master branch
+=======
+			just nothing but trouble
+>>>>>>> 8dc66ab... fb adding some trouble to simple.html
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; eh ooh</p>
+	</footer>
+</body>
+</html>
